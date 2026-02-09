@@ -1,0 +1,1086 @@
+Date,Series_title_1,Data_value
+2024-03-01,"Oranges, 1kg",6.65
+2024-04-01,"Oranges, 1kg",6.65
+2024-05-01,"Oranges, 1kg",6.88
+2024-06-01,"Oranges, 1kg",4.99
+2024-07-01,"Oranges, 1kg",4.44
+2024-08-01,"Oranges, 1kg",3.99
+2024-09-01,"Oranges, 1kg",4.18
+2024-03-01,"Bananas, 1kg",3.77
+2024-04-01,"Bananas, 1kg",3.74
+2024-05-01,"Bananas, 1kg",3.72
+2024-06-01,"Bananas, 1kg",3.69
+2024-07-01,"Bananas, 1kg",3.66
+2024-08-01,"Bananas, 1kg",3.61
+2024-09-01,"Bananas, 1kg",3.63
+2024-03-01,"Apples, 1kg",3.9
+2024-04-01,"Apples, 1kg",3.85
+2024-05-01,"Apples, 1kg",3.52
+2024-06-01,"Apples, 1kg",3.38
+2024-07-01,"Apples, 1kg",3.73
+2024-08-01,"Apples, 1kg",3.61
+2024-09-01,"Apples, 1kg",4.13
+2024-03-01,"Kiwifruit, 1kg",9.19
+2024-04-01,"Kiwifruit, 1kg",4.41
+2024-05-01,"Kiwifruit, 1kg",3.59
+2024-06-01,"Kiwifruit, 1kg",3.4
+2024-07-01,"Kiwifruit, 1kg",3.42
+2024-08-01,"Kiwifruit, 1kg",4.29
+2024-09-01,"Kiwifruit, 1kg",5.18
+2024-03-01,"Sultanas (supermarket only), 375g",3.16
+2024-04-01,"Sultanas (supermarket only), 375g",3.23
+2024-05-01,"Sultanas (supermarket only), 375g",3.23
+2024-06-01,"Sultanas (supermarket only), 375g",3.3
+2024-07-01,"Sultanas (supermarket only), 375g",3.31
+2024-08-01,"Sultanas (supermarket only), 375g",3.4
+2024-09-01,"Sultanas (supermarket only), 375g",3.45
+2024-03-01,"Peaches - canned (supermarket only), 410g",2.08
+2024-04-01,"Peaches - canned (supermarket only), 410g",2.03
+2024-05-01,"Peaches - canned (supermarket only), 410g",1.98
+2024-06-01,"Peaches - canned (supermarket only), 410g",2.0
+2024-07-01,"Peaches - canned (supermarket only), 410g",2.0
+2024-08-01,"Peaches - canned (supermarket only), 410g",2.0
+2024-09-01,"Peaches - canned (supermarket only), 410g",2.06
+2024-03-01,"Lettuce, 1kg",5.14
+2024-04-01,"Lettuce, 1kg",4.96
+2024-05-01,"Lettuce, 1kg",4.95
+2024-06-01,"Lettuce, 1kg",4.93
+2024-07-01,"Lettuce, 1kg",4.86
+2024-08-01,"Lettuce, 1kg",5.12
+2024-09-01,"Lettuce, 1kg",4.35
+2024-03-01,"Broccoli, 1kg",8.75
+2024-04-01,"Broccoli, 1kg",6.53
+2024-05-01,"Broccoli, 1kg",6.07
+2024-06-01,"Broccoli, 1kg",6.43
+2024-07-01,"Broccoli, 1kg",6.14
+2024-08-01,"Broccoli, 1kg",6.27
+2024-09-01,"Broccoli, 1kg",5.75
+2024-03-01,"Cabbage, 1kg",3.27
+2024-04-01,"Cabbage, 1kg",3.25
+2024-05-01,"Cabbage, 1kg",3.07
+2024-06-01,"Cabbage, 1kg",2.68
+2024-07-01,"Cabbage, 1kg",2.53
+2024-08-01,"Cabbage, 1kg",2.82
+2024-09-01,"Cabbage, 1kg",2.97
+2024-03-01,"Tomatoes, 1kg",5.88
+2024-04-01,"Tomatoes, 1kg",6.54
+2024-05-01,"Tomatoes, 1kg",6.65
+2024-06-01,"Tomatoes, 1kg",10.13
+2024-07-01,"Tomatoes, 1kg",11.44
+2024-08-01,"Tomatoes, 1kg",12.67
+2024-09-01,"Tomatoes, 1kg",13.29
+2024-03-01,"Carrots, 1kg",2.8
+2024-04-01,"Carrots, 1kg",2.6
+2024-05-01,"Carrots, 1kg",2.46
+2024-06-01,"Carrots, 1kg",2.26
+2024-07-01,"Carrots, 1kg",2.26
+2024-08-01,"Carrots, 1kg",2.18
+2024-09-01,"Carrots, 1kg",2.32
+2024-03-01,"Mushrooms, 1kg",14.1
+2024-04-01,"Mushrooms, 1kg",14.42
+2024-05-01,"Mushrooms, 1kg",13.23
+2024-06-01,"Mushrooms, 1kg",13.19
+2024-07-01,"Mushrooms, 1kg",12.39
+2024-08-01,"Mushrooms, 1kg",12.55
+2024-09-01,"Mushrooms, 1kg",13.04
+2024-03-01,"Potatoes, 1kg",2.75
+2024-04-01,"Potatoes, 1kg",2.6
+2024-05-01,"Potatoes, 1kg",2.36
+2024-06-01,"Potatoes, 1kg",2.19
+2024-07-01,"Potatoes, 1kg",2.38
+2024-08-01,"Potatoes, 1kg",2.18
+2024-09-01,"Potatoes, 1kg",2.23
+2024-03-01,"Peas - frozen (supermarket only), 1kg",3.59
+2024-04-01,"Peas - frozen (supermarket only), 1kg",3.57
+2024-05-01,"Peas - frozen (supermarket only), 1kg",3.59
+2024-06-01,"Peas - frozen (supermarket only), 1kg",3.58
+2024-07-01,"Peas - frozen (supermarket only), 1kg",3.6
+2024-08-01,"Peas - frozen (supermarket only), 1kg",3.6
+2024-09-01,"Peas - frozen (supermarket only), 1kg",3.61
+2024-03-01,"Beef steak - blade, 1kg",23.42
+2024-04-01,"Beef steak - blade, 1kg",23.87
+2024-05-01,"Beef steak - blade, 1kg",22.81
+2024-06-01,"Beef steak - blade, 1kg",22.12
+2024-07-01,"Beef steak - blade, 1kg",22.55
+2024-08-01,"Beef steak - blade, 1kg",23.46
+2024-09-01,"Beef steak - blade, 1kg",24.88
+2024-03-01,"Beef steak - porterhouse/sirloin, 1kg",31.5
+2024-04-01,"Beef steak - porterhouse/sirloin, 1kg",32.83
+2024-05-01,"Beef steak - porterhouse/sirloin, 1kg",33.13
+2024-06-01,"Beef steak - porterhouse/sirloin, 1kg",32.8
+2024-07-01,"Beef steak - porterhouse/sirloin, 1kg",33.89
+2024-08-01,"Beef steak - porterhouse/sirloin, 1kg",35.25
+2024-09-01,"Beef steak - porterhouse/sirloin, 1kg",36.65
+2024-03-01,"Beef - mince, 1kg",17.99
+2024-04-01,"Beef - mince, 1kg",18.12
+2024-05-01,"Beef - mince, 1kg",18.52
+2024-06-01,"Beef - mince, 1kg",18.8
+2024-07-01,"Beef - mince, 1kg",18.41
+2024-08-01,"Beef - mince, 1kg",19.13
+2024-09-01,"Beef - mince, 1kg",19.64
+2024-03-01,"Pork - loin chops, 1kg",16.59
+2024-04-01,"Pork - loin chops, 1kg",17.31
+2024-05-01,"Pork - loin chops, 1kg",17.29
+2024-06-01,"Pork - loin chops, 1kg",17.07
+2024-07-01,"Pork - loin chops, 1kg",16.84
+2024-08-01,"Pork - loin chops, 1kg",16.39
+2024-09-01,"Pork - loin chops, 1kg",17.14
+2024-03-01,"Lamb - chops, 1kg",17.99
+2024-04-01,"Lamb - chops, 1kg",18.1
+2024-05-01,"Lamb - chops, 1kg",17.28
+2024-06-01,"Lamb - chops, 1kg",18.17
+2024-07-01,"Lamb - chops, 1kg",18.23
+2024-08-01,"Lamb - chops, 1kg",18.13
+2024-09-01,"Lamb - chops, 1kg",18.31
+2024-03-01,"Sausages, 1kg",12.19
+2024-04-01,"Sausages, 1kg",12.22
+2024-05-01,"Sausages, 1kg",12.22
+2024-06-01,"Sausages, 1kg",12.04
+2024-07-01,"Sausages, 1kg",12.12
+2024-08-01,"Sausages, 1kg",12.24
+2024-09-01,"Sausages, 1kg",12.5
+2024-03-01,"Tuna - canned (supermarket only), 185g",3.43
+2024-04-01,"Tuna - canned (supermarket only), 185g",3.52
+2024-05-01,"Tuna - canned (supermarket only), 185g",3.4
+2024-06-01,"Tuna - canned (supermarket only), 185g",3.4
+2024-07-01,"Tuna - canned (supermarket only), 185g",3.34
+2024-08-01,"Tuna - canned (supermarket only), 185g",3.39
+2024-09-01,"Tuna - canned (supermarket only), 185g",3.28
+2024-03-01,"Biscuits - chocolate, 200g",3.28
+2024-04-01,"Biscuits - chocolate, 200g",3.36
+2024-05-01,"Biscuits - chocolate, 200g",3.29
+2024-06-01,"Biscuits - chocolate, 200g",3.26
+2024-07-01,"Biscuits - chocolate, 200g",3.24
+2024-08-01,"Biscuits - chocolate, 200g",3.6
+2024-09-01,"Biscuits - chocolate, 200g",3.78
+2024-03-01,"Breakfast biscuits, 1kg",6.25
+2024-04-01,"Breakfast biscuits, 1kg",6.29
+2024-05-01,"Breakfast biscuits, 1kg",6.21
+2024-06-01,"Breakfast biscuits, 1kg",6.48
+2024-07-01,"Breakfast biscuits, 1kg",6.5
+2024-08-01,"Breakfast biscuits, 1kg",6.44
+2024-09-01,"Breakfast biscuits, 1kg",6.38
+2024-03-01,"Flour - white (supermarket only), 1.5kg",2.33
+2024-04-01,"Flour - white (supermarket only), 1.5kg",2.34
+2024-05-01,"Flour - white (supermarket only), 1.5kg",2.33
+2024-06-01,"Flour - white (supermarket only), 1.5kg",2.29
+2024-07-01,"Flour - white (supermarket only), 1.5kg",2.28
+2024-08-01,"Flour - white (supermarket only), 1.5kg",2.23
+2024-09-01,"Flour - white (supermarket only), 1.5kg",2.13
+2024-03-01,"Rice - long grain, white (supermarket only), 1kg",3.2
+2024-04-01,"Rice - long grain, white (supermarket only), 1kg",3.21
+2024-05-01,"Rice - long grain, white (supermarket only), 1kg",3.13
+2024-06-01,"Rice - long grain, white (supermarket only), 1kg",3.14
+2024-07-01,"Rice - long grain, white (supermarket only), 1kg",3.24
+2024-08-01,"Rice - long grain, white (supermarket only), 1kg",3.22
+2024-09-01,"Rice - long grain, white (supermarket only), 1kg",3.26
+2024-03-01,"Milk - standard homogenised, 2 litres",3.94
+2024-04-01,"Milk - standard homogenised, 2 litres",3.97
+2024-05-01,"Milk - standard homogenised, 2 litres",3.97
+2024-06-01,"Milk - standard homogenised, 2 litres",4.0
+2024-07-01,"Milk - standard homogenised, 2 litres",4.05
+2024-08-01,"Milk - standard homogenised, 2 litres",4.06
+2024-09-01,"Milk - standard homogenised, 2 litres",4.1
+2024-03-01,"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6",7.65
+2024-04-01,"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6",7.27
+2024-05-01,"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6",6.97
+2024-06-01,"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6",7.29
+2024-07-01,"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6",7.18
+2024-08-01,"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6",7.31
+2024-09-01,"Yoghurt - flavoured, 150g pottle (supermarket only), pk of 6",7.65
+2024-03-01,"Cheese - mild cheddar (supermarket only), 1kg",10.02
+2024-04-01,"Cheese - mild cheddar (supermarket only), 1kg",10.01
+2024-05-01,"Cheese - mild cheddar (supermarket only), 1kg",10.02
+2024-06-01,"Cheese - mild cheddar (supermarket only), 1kg",10.03
+2024-07-01,"Cheese - mild cheddar (supermarket only), 1kg",10.05
+2024-08-01,"Cheese - mild cheddar (supermarket only), 1kg",10.21
+2024-09-01,"Cheese - mild cheddar (supermarket only), 1kg",9.75
+2024-03-01,"Eggs, dozen",9.28
+2024-04-01,"Eggs, dozen",9.17
+2024-05-01,"Eggs, dozen",8.89
+2024-06-01,"Eggs, dozen",9.41
+2024-07-01,"Eggs, dozen",8.65
+2024-08-01,"Eggs, dozen",8.92
+2024-09-01,"Eggs, dozen",8.86
+2024-03-01,"Butter - salted, 500g",4.48
+2024-04-01,"Butter - salted, 500g",4.49
+2024-05-01,"Butter - salted, 500g",5.57
+2024-06-01,"Butter - salted, 500g",5.87
+2024-07-01,"Butter - salted, 500g",6.04
+2024-08-01,"Butter - salted, 500g",6.51
+2024-09-01,"Butter - salted, 500g",6.62
+2024-03-01,"Sugar - white, 1.5kg",3.4
+2024-04-01,"Sugar - white, 1.5kg",3.41
+2024-05-01,"Sugar - white, 1.5kg",3.4
+2024-06-01,"Sugar - white, 1.5kg",3.39
+2024-07-01,"Sugar - white, 1.5kg",3.4
+2024-08-01,"Sugar - white, 1.5kg",3.38
+2024-09-01,"Sugar - white, 1.5kg",3.33
+2024-03-01,"Chocolate - block (supermarket only), 250g",5.15
+2024-04-01,"Chocolate - block (supermarket only), 250g",5.43
+2024-05-01,"Chocolate - block (supermarket only), 250g",5.21
+2024-06-01,"Chocolate - block (supermarket only), 250g",5.46
+2024-07-01,"Chocolate - block (supermarket only), 250g",5.58
+2024-08-01,"Chocolate - block (supermarket only), 250g",5.56
+2024-09-01,"Chocolate - block (supermarket only), 250g",5.31
+2024-03-01,"Spaghetti - canned, 420g",2.2
+2024-04-01,"Spaghetti - canned, 420g",2.15
+2024-05-01,"Spaghetti - canned, 420g",2.14
+2024-06-01,"Spaghetti - canned, 420g",2.04
+2024-07-01,"Spaghetti - canned, 420g",2.18
+2024-08-01,"Spaghetti - canned, 420g",2.05
+2024-09-01,"Spaghetti - canned, 420g",1.94
+2024-03-01,"Coffee - instant, 100g",6.93
+2024-04-01,"Coffee - instant, 100g",6.77
+2024-05-01,"Coffee - instant, 100g",6.76
+2024-06-01,"Coffee - instant, 100g",7.02
+2024-07-01,"Coffee - instant, 100g",6.58
+2024-08-01,"Coffee - instant, 100g",6.79
+2024-09-01,"Coffee - instant, 100g",7.13
+2024-03-01,"Tea bags (supermarket only), box of 100",5.83
+2024-04-01,"Tea bags (supermarket only), box of 100",5.82
+2024-05-01,"Tea bags (supermarket only), box of 100",5.75
+2024-06-01,"Tea bags (supermarket only), box of 100",5.83
+2024-07-01,"Tea bags (supermarket only), box of 100",5.84
+2024-08-01,"Tea bags (supermarket only), box of 100",5.86
+2024-09-01,"Tea bags (supermarket only), box of 100",5.79
+2024-03-01,"Soft drink, 1.5 litres",3.17
+2024-04-01,"Soft drink, 1.5 litres",3.18
+2024-05-01,"Soft drink, 1.5 litres",3.32
+2024-06-01,"Soft drink, 1.5 litres",3.59
+2024-07-01,"Soft drink, 1.5 litres",3.5
+2024-08-01,"Soft drink, 1.5 litres",3.41
+2024-09-01,"Soft drink, 1.5 litres",3.4
+2024-03-01,"Bottled water, 750ml",2.33
+2024-04-01,"Bottled water, 750ml",2.37
+2024-05-01,"Bottled water, 750ml",2.4
+2024-06-01,"Bottled water, 750ml",2.38
+2024-07-01,"Bottled water, 750ml",2.39
+2024-08-01,"Bottled water, 750ml",2.39
+2024-09-01,"Bottled water, 750ml",2.42
+2024-03-01,"Fish and chips, One fish/chips",10.41
+2024-04-01,"Fish and chips, One fish/chips",10.49
+2024-05-01,"Fish and chips, One fish/chips",10.49
+2024-06-01,"Fish and chips, One fish/chips",10.54
+2024-07-01,"Fish and chips, One fish/chips",10.57
+2024-08-01,"Fish and chips, One fish/chips",10.59
+2024-09-01,"Fish and chips, One fish/chips",10.59
+2024-03-01,"Meat pie - hot, each",6.0
+2024-04-01,"Meat pie - hot, each",6.03
+2024-05-01,"Meat pie - hot, each",6.08
+2024-06-01,"Meat pie - hot, each",6.08
+2024-07-01,"Meat pie - hot, each",6.1
+2024-08-01,"Meat pie - hot, each",6.11
+2024-09-01,"Meat pie - hot, each",6.05
+2024-03-01,"Fruit juice - apple based (supermarket only), 3 litre",5.56
+2024-04-01,"Fruit juice - apple based (supermarket only), 3 litre",5.53
+2024-05-01,"Fruit juice - apple based (supermarket only), 3 litre",5.85
+2024-06-01,"Fruit juice - apple based (supermarket only), 3 litre",5.58
+2024-07-01,"Fruit juice - apple based (supermarket only), 3 litre",5.89
+2024-08-01,"Fruit juice - apple based (supermarket only), 3 litre",5.53
+2024-09-01,"Fruit juice - apple based (supermarket only), 3 litre",5.14
+2024-03-01,"Potato crisps, 150g",2.22
+2024-04-01,"Potato crisps, 150g",2.32
+2024-05-01,"Potato crisps, 150g",2.25
+2024-06-01,"Potato crisps, 150g",2.3
+2024-07-01,"Potato crisps, 150g",2.24
+2024-08-01,"Potato crisps, 150g",2.23
+2024-09-01,"Potato crisps, 150g",2.26
+2024-03-01,"Tomato sauce - canned, 560g",3.86
+2024-04-01,"Tomato sauce - canned, 560g",3.84
+2024-05-01,"Tomato sauce - canned, 560g",3.89
+2024-06-01,"Tomato sauce - canned, 560g",3.98
+2024-07-01,"Tomato sauce - canned, 560g",3.84
+2024-08-01,"Tomato sauce - canned, 560g",3.8
+2024-09-01,"Tomato sauce - canned, 560g",3.87
+2024-03-01,"Bacon - middle rashers (supermarket only), 700g",15.43
+2024-04-01,"Bacon - middle rashers (supermarket only), 700g",15.64
+2024-05-01,"Bacon - middle rashers (supermarket only), 700g",15.86
+2024-06-01,"Bacon - middle rashers (supermarket only), 700g",15.87
+2024-07-01,"Bacon - middle rashers (supermarket only), 700g",15.43
+2024-08-01,"Bacon - middle rashers (supermarket only), 700g",15.41
+2024-09-01,"Bacon - middle rashers (supermarket only), 700g",15.63
+2024-03-01,"Chicken breast, 1kg",16.02
+2024-04-01,"Chicken breast, 1kg",15.94
+2024-05-01,"Chicken breast, 1kg",15.92
+2024-06-01,"Chicken breast, 1kg",15.29
+2024-07-01,"Chicken breast, 1kg",15.39
+2024-08-01,"Chicken breast, 1kg",15.7
+2024-09-01,"Chicken breast, 1kg",15.65
+2024-03-01,"Bread - white sliced loaf, 600g",1.39
+2024-04-01,"Bread - white sliced loaf, 600g",1.39
+2024-05-01,"Bread - white sliced loaf, 600g",1.39
+2024-06-01,"Bread - white sliced loaf, 600g",1.39
+2024-07-01,"Bread - white sliced loaf, 600g",1.4
+2024-08-01,"Bread - white sliced loaf, 600g",1.39
+2024-09-01,"Bread - white sliced loaf, 600g",1.39
+2024-03-01,"Apricots, dried, 100g",3.28
+2024-04-01,"Apricots, dried, 100g",3.28
+2024-05-01,"Apricots, dried, 100g",3.24
+2024-06-01,"Apricots, dried, 100g",3.31
+2024-07-01,"Apricots, dried, 100g",3.3
+2024-08-01,"Apricots, dried, 100g",3.29
+2024-09-01,"Apricots, dried, 100g",3.36
+2024-03-01,"Avocado, 1kg",8.21
+2024-04-01,"Avocado, 1kg",13.15
+2024-05-01,"Avocado, 1kg",14.83
+2024-06-01,"Avocado, 1kg",10.52
+2024-07-01,"Avocado, 1kg",7.85
+2024-08-01,"Avocado, 1kg",6.9
+2024-09-01,"Avocado, 1kg",6.74
+2024-03-01,"Baby food, 110g",1.34
+2024-04-01,"Baby food, 110g",1.32
+2024-05-01,"Baby food, 110g",1.32
+2024-06-01,"Baby food, 110g",1.32
+2024-07-01,"Baby food, 110g",1.32
+2024-08-01,"Baby food, 110g",1.35
+2024-09-01,"Baby food, 110g",1.32
+2024-03-01,"Beans, 1kg",13.19
+2024-04-01,"Beans, 1kg",16.92
+2024-05-01,"Beans, 1kg",17.59
+2024-06-01,"Beans, 1kg",16.69
+2024-07-01,"Beans, 1kg",16.53
+2024-08-01,"Beans, 1kg",20.58
+2024-09-01,"Beans, 1kg",19.51
+2024-03-01,"Bread rolls, filled, hot, each",9.26
+2024-04-01,"Bread rolls, filled, hot, each",9.31
+2024-05-01,"Bread rolls, filled, hot, each",9.33
+2024-06-01,"Bread rolls, filled, hot, each",9.33
+2024-07-01,"Bread rolls, filled, hot, each",9.34
+2024-08-01,"Bread rolls, filled, hot, each",9.36
+2024-09-01,"Bread rolls, filled, hot, each",9.36
+2024-03-01,"Bread rolls, hamburger buns, 6 pack",4.08
+2024-04-01,"Bread rolls, hamburger buns, 6 pack",4.11
+2024-05-01,"Bread rolls, hamburger buns, 6 pack",4.1
+2024-06-01,"Bread rolls, hamburger buns, 6 pack",4.16
+2024-07-01,"Bread rolls, hamburger buns, 6 pack",4.16
+2024-08-01,"Bread rolls, hamburger buns, 6 pack",4.17
+2024-09-01,"Bread rolls, hamburger buns, 6 pack",4.2
+2024-03-01,"Breakfast drink, 250ml, 6 pack",8.67
+2024-04-01,"Breakfast drink, 250ml, 6 pack",9.15
+2024-05-01,"Breakfast drink, 250ml, 6 pack",9.1
+2024-06-01,"Breakfast drink, 250ml, 6 pack",9.15
+2024-07-01,"Breakfast drink, 250ml, 6 pack",9.02
+2024-08-01,"Breakfast drink, 250ml, 6 pack",9.16
+2024-09-01,"Breakfast drink, 250ml, 6 pack",9.13
+2024-03-01,"Burger, with or without accompaniments, each",7.04
+2024-04-01,"Burger, with or without accompaniments, each",7.28
+2024-05-01,"Burger, with or without accompaniments, each",7.1
+2024-06-01,"Burger, with or without accompaniments, each",7.12
+2024-07-01,"Burger, with or without accompaniments, each",7.14
+2024-08-01,"Burger, with or without accompaniments, each",7.15
+2024-09-01,"Burger, with or without accompaniments, each",7.18
+2024-03-01,"Soup, canned, 500g",4.15
+2024-04-01,"Soup, canned, 500g",4.18
+2024-05-01,"Soup, canned, 500g",3.83
+2024-06-01,"Soup, canned, 500g",3.63
+2024-07-01,"Soup, canned, 500g",3.69
+2024-08-01,"Soup, canned, 500g",3.54
+2024-09-01,"Soup, canned, 500g",3.82
+2024-03-01,"Capsicums, green, else red, 1kg",15.09
+2024-04-01,"Capsicums, green, else red, 1kg",15.9
+2024-05-01,"Capsicums, green, else red, 1kg",20.87
+2024-06-01,"Capsicums, green, else red, 1kg",23.87
+2024-07-01,"Capsicums, green, else red, 1kg",25.88
+2024-08-01,"Capsicums, green, else red, 1kg",25.74
+2024-09-01,"Capsicums, green, else red, 1kg",23.35
+2024-03-01,"Cauliflower, 1kg",4.7
+2024-04-01,"Cauliflower, 1kg",3.96
+2024-05-01,"Cauliflower, 1kg",3.43
+2024-06-01,"Cauliflower, 1kg",3.29
+2024-07-01,"Cauliflower, 1kg",3.0
+2024-08-01,"Cauliflower, 1kg",2.7
+2024-09-01,"Cauliflower, 1kg",2.84
+2024-03-01,"Celery, 1kg",2.77
+2024-04-01,"Celery, 1kg",2.56
+2024-05-01,"Celery, 1kg",2.38
+2024-06-01,"Celery, 1kg",2.09
+2024-07-01,"Celery, 1kg",2.29
+2024-08-01,"Celery, 1kg",1.88
+2024-09-01,"Celery, 1kg",1.92
+2024-03-01,"Cheese, camembert, 125g",5.55
+2024-04-01,"Cheese, camembert, 125g",5.72
+2024-05-01,"Cheese, camembert, 125g",5.76
+2024-06-01,"Cheese, camembert, 125g",5.63
+2024-07-01,"Cheese, camembert, 125g",5.7
+2024-08-01,"Cheese, camembert, 125g",5.95
+2024-09-01,"Cheese, camembert, 125g",6.06
+2024-03-01,"Cheese, processed slices, 250g",4.88
+2024-04-01,"Cheese, processed slices, 250g",4.94
+2024-05-01,"Cheese, processed slices, 250g",4.81
+2024-06-01,"Cheese, processed slices, 250g",4.75
+2024-07-01,"Cheese, processed slices, 250g",4.77
+2024-08-01,"Cheese, processed slices, 250g",4.69
+2024-09-01,"Cheese, processed slices, 250g",4.83
+2024-03-01,"Chicken, cooked, whole, No. 15 - Cheapest Available",14.9
+2024-04-01,"Chicken, cooked, whole, No. 15 - Cheapest Available",14.78
+2024-05-01,"Chicken, cooked, whole, No. 15 - Cheapest Available",15.41
+2024-06-01,"Chicken, cooked, whole, No. 15 - Cheapest Available",15.39
+2024-07-01,"Chicken, cooked, whole, No. 15 - Cheapest Available",15.43
+2024-08-01,"Chicken, cooked, whole, No. 15 - Cheapest Available",15.12
+2024-09-01,"Chicken, cooked, whole, No. 15 - Cheapest Available",15.46
+2024-03-01,"Chicken pieces (excluding breast), boneless or bone in, 1kg",9.33
+2024-04-01,"Chicken pieces (excluding breast), boneless or bone in, 1kg",9.35
+2024-05-01,"Chicken pieces (excluding breast), boneless or bone in, 1kg",8.98
+2024-06-01,"Chicken pieces (excluding breast), boneless or bone in, 1kg",8.97
+2024-07-01,"Chicken pieces (excluding breast), boneless or bone in, 1kg",8.93
+2024-08-01,"Chicken pieces (excluding breast), boneless or bone in, 1kg",9.1
+2024-09-01,"Chicken pieces (excluding breast), boneless or bone in, 1kg",8.75
+2024-03-01,"Chicken, whole, frozen, No. 15 - Cheapest Available",9.4
+2024-04-01,"Chicken, whole, frozen, No. 15 - Cheapest Available",9.52
+2024-05-01,"Chicken, whole, frozen, No. 15 - Cheapest Available",10.09
+2024-06-01,"Chicken, whole, frozen, No. 15 - Cheapest Available",10.06
+2024-07-01,"Chicken, whole, frozen, No. 15 - Cheapest Available",9.96
+2024-08-01,"Chicken, whole, frozen, No. 15 - Cheapest Available",9.78
+2024-09-01,"Chicken, whole, frozen, No. 15 - Cheapest Available",10.07
+2024-03-01,"Chicken nuggets, frozen, 1kg",14.2
+2024-04-01,"Chicken nuggets, frozen, 1kg",14.07
+2024-05-01,"Chicken nuggets, frozen, 1kg",14.54
+2024-06-01,"Chicken nuggets, frozen, 1kg",13.61
+2024-07-01,"Chicken nuggets, frozen, 1kg",13.39
+2024-08-01,"Chicken nuggets, frozen, 1kg",13.97
+2024-09-01,"Chicken nuggets, frozen, 1kg",13.58
+2024-03-01,"Chilled fruit juice or smoothies, 1 to 1.5 litre",5.87
+2024-04-01,"Chilled fruit juice or smoothies, 1 to 1.5 litre",5.84
+2024-05-01,"Chilled fruit juice or smoothies, 1 to 1.5 litre",5.84
+2024-06-01,"Chilled fruit juice or smoothies, 1 to 1.5 litre",5.79
+2024-07-01,"Chilled fruit juice or smoothies, 1 to 1.5 litre",5.84
+2024-08-01,"Chilled fruit juice or smoothies, 1 to 1.5 litre",5.9
+2024-09-01,"Chilled fruit juice or smoothies, 1 to 1.5 litre",6.0
+2024-03-01,"Chocolate, boxed, loose, 250g",9.1
+2024-04-01,"Chocolate, boxed, loose, 250g",10.09
+2024-05-01,"Chocolate, boxed, loose, 250g",9.49
+2024-06-01,"Chocolate, boxed, loose, 250g",11.03
+2024-07-01,"Chocolate, boxed, loose, 250g",11.13
+2024-08-01,"Chocolate, boxed, loose, 250g",10.15
+2024-09-01,"Chocolate, boxed, loose, 250g",10.96
+2024-03-01,"Chocolate blocks, convenience stores, 100g to 250g",5.32
+2024-04-01,"Chocolate blocks, convenience stores, 100g to 250g",5.32
+2024-05-01,"Chocolate blocks, convenience stores, 100g to 250g",5.6
+2024-06-01,"Chocolate blocks, convenience stores, 100g to 250g",5.76
+2024-07-01,"Chocolate blocks, convenience stores, 100g to 250g",5.9
+2024-08-01,"Chocolate blocks, convenience stores, 100g to 250g",5.64
+2024-09-01,"Chocolate blocks, convenience stores, 100g to 250g",5.82
+2024-03-01,"Chocolate novelty bars, 50g",1.71
+2024-04-01,"Chocolate novelty bars, 50g",1.82
+2024-05-01,"Chocolate novelty bars, 50g",1.77
+2024-06-01,"Chocolate novelty bars, 50g",1.88
+2024-07-01,"Chocolate novelty bars, 50g",1.84
+2024-08-01,"Chocolate novelty bars, 50g",1.93
+2024-09-01,"Chocolate novelty bars, 50g",1.8
+2024-03-01,"Corn flakes, 500g",4.82
+2024-04-01,"Corn flakes, 500g",4.84
+2024-05-01,"Corn flakes, 500g",4.71
+2024-06-01,"Corn flakes, 500g",4.65
+2024-07-01,"Corn flakes, 500g",4.73
+2024-08-01,"Corn flakes, 500g",4.74
+2024-09-01,"Corn flakes, 500g",4.93
+2024-03-01,"Corned beef, fresh, chilled or frozen, 1kg",16.39
+2024-04-01,"Corned beef, fresh, chilled or frozen, 1kg",16.24
+2024-05-01,"Corned beef, fresh, chilled or frozen, 1kg",15.09
+2024-06-01,"Corned beef, fresh, chilled or frozen, 1kg",16.16
+2024-07-01,"Corned beef, fresh, chilled or frozen, 1kg",15.93
+2024-08-01,"Corned beef, fresh, chilled or frozen, 1kg",17.01
+2024-09-01,"Corned beef, fresh, chilled or frozen, 1kg",17.41
+2024-03-01,"Courgettes, 1kg",5.66
+2024-04-01,"Courgettes, 1kg",6.63
+2024-05-01,"Courgettes, 1kg",11.01
+2024-06-01,"Courgettes, 1kg",12.34
+2024-07-01,"Courgettes, 1kg",12.9
+2024-08-01,"Courgettes, 1kg",12.74
+2024-09-01,"Courgettes, 1kg",13.36
+2024-03-01,"Biscuits, savoury, crackers 250g",4.03
+2024-04-01,"Biscuits, savoury, crackers 250g",4.1
+2024-05-01,"Biscuits, savoury, crackers 250g",4.16
+2024-06-01,"Biscuits, savoury, crackers 250g",4.1
+2024-07-01,"Biscuits, savoury, crackers 250g",4.1
+2024-08-01,"Biscuits, savoury, crackers 250g",4.01
+2024-09-01,"Biscuits, savoury, crackers 250g",4.25
+2024-03-01,"Cream, 300ml - Cheapest Available",2.82
+2024-04-01,"Cream, 300ml - Cheapest Available",2.84
+2024-05-01,"Cream, 300ml - Cheapest Available",2.85
+2024-06-01,"Cream, 300ml - Cheapest Available",2.85
+2024-07-01,"Cream, 300ml - Cheapest Available",2.88
+2024-08-01,"Cream, 300ml - Cheapest Available",2.87
+2024-09-01,"Cream, 300ml - Cheapest Available",2.9
+2024-03-01,"Cucumber, 1kg",8.72
+2024-04-01,"Cucumber, 1kg",12.56
+2024-05-01,"Cucumber, 1kg",12.63
+2024-06-01,"Cucumber, 1kg",13.98
+2024-07-01,"Cucumber, 1kg",18.07
+2024-08-01,"Cucumber, 1kg",18.73
+2024-09-01,"Cucumber, 1kg",15.63
+2024-03-01,"Dessert, frozen, 500g",9.38
+2024-04-01,"Dessert, frozen, 500g",8.98
+2024-05-01,"Dessert, frozen, 500g",9.26
+2024-06-01,"Dessert, frozen, 500g",9.37
+2024-07-01,"Dessert, frozen, 500g",9.67
+2024-08-01,"Dessert, frozen, 500g",9.39
+2024-09-01,"Dessert, frozen, 500g",9.01
+2024-03-01,"Fruit flavoured drink powder, multipack of 3 to 5",2.11
+2024-04-01,"Fruit flavoured drink powder, multipack of 3 to 5",2.05
+2024-05-01,"Fruit flavoured drink powder, multipack of 3 to 5",2.08
+2024-06-01,"Fruit flavoured drink powder, multipack of 3 to 5",2.06
+2024-07-01,"Fruit flavoured drink powder, multipack of 3 to 5",2.09
+2024-08-01,"Fruit flavoured drink powder, multipack of 3 to 5",2.07
+2024-09-01,"Fruit flavoured drink powder, multipack of 3 to 5",2.04
+2024-03-01,"Dried pasta, spaghetti or other type, 500g",2.65
+2024-04-01,"Dried pasta, spaghetti or other type, 500g",2.62
+2024-05-01,"Dried pasta, spaghetti or other type, 500g",2.59
+2024-06-01,"Dried pasta, spaghetti or other type, 500g",2.54
+2024-07-01,"Dried pasta, spaghetti or other type, 500g",2.56
+2024-08-01,"Dried pasta, spaghetti or other type, 500g",2.53
+2024-09-01,"Dried pasta, spaghetti or other type, 500g",2.49
+2024-03-01,"Drinking chocolate, 300g",5.14
+2024-04-01,"Drinking chocolate, 300g",5.16
+2024-05-01,"Drinking chocolate, 300g",4.96
+2024-06-01,"Drinking chocolate, 300g",5.33
+2024-07-01,"Drinking chocolate, 300g",5.25
+2024-08-01,"Drinking chocolate, 300g",5.25
+2024-09-01,"Drinking chocolate, 300g",5.31
+2024-03-01,"Milk, calcium enriched, 2 litres",6.27
+2024-04-01,"Milk, calcium enriched, 2 litres",6.32
+2024-05-01,"Milk, calcium enriched, 2 litres",6.35
+2024-06-01,"Milk, calcium enriched, 2 litres",6.35
+2024-07-01,"Milk, calcium enriched, 2 litres",6.42
+2024-08-01,"Milk, calcium enriched, 2 litres",6.45
+2024-09-01,"Milk, calcium enriched, 2 litres",6.48
+2024-03-01,"Fish fillets, frozen, multipack, 500g",8.68
+2024-04-01,"Fish fillets, frozen, multipack, 500g",8.52
+2024-05-01,"Fish fillets, frozen, multipack, 500g",8.45
+2024-06-01,"Fish fillets, frozen, multipack, 500g",8.56
+2024-07-01,"Fish fillets, frozen, multipack, 500g",8.51
+2024-08-01,"Fish fillets, frozen, multipack, 500g",8.29
+2024-09-01,"Fish fillets, frozen, multipack, 500g",8.6
+2024-03-01,"Flat bread - pita, tortilla, or other type",5.34
+2024-04-01,"Flat bread - pita, tortilla, or other type",5.37
+2024-05-01,"Flat bread - pita, tortilla, or other type",5.37
+2024-06-01,"Flat bread - pita, tortilla, or other type",5.39
+2024-07-01,"Flat bread - pita, tortilla, or other type",5.37
+2024-08-01,"Flat bread - pita, tortilla, or other type",5.36
+2024-09-01,"Flat bread - pita, tortilla, or other type",5.42
+2024-03-01,"Eggs, free range, 6 pack",7.76
+2024-04-01,"Eggs, free range, 6 pack",7.68
+2024-05-01,"Eggs, free range, 6 pack",7.47
+2024-06-01,"Eggs, free range, 6 pack",7.48
+2024-07-01,"Eggs, free range, 6 pack",7.44
+2024-08-01,"Eggs, free range, 6 pack",7.4
+2024-09-01,"Eggs, free range, 6 pack",6.97
+2024-03-01,"Fresh fish, 1kg",43.39
+2024-04-01,"Fresh fish, 1kg",44.03
+2024-05-01,"Fresh fish, 1kg",44.15
+2024-06-01,"Fresh fish, 1kg",44.35
+2024-07-01,"Fresh fish, 1kg",44.87
+2024-08-01,"Fresh fish, 1kg",44.88
+2024-09-01,"Fresh fish, 1kg",45.77
+2024-03-01,"Fresh pasta, tortellini or other filled type, 300g",5.72
+2024-04-01,"Fresh pasta, tortellini or other filled type, 300g",5.73
+2024-05-01,"Fresh pasta, tortellini or other filled type, 300g",5.86
+2024-06-01,"Fresh pasta, tortellini or other filled type, 300g",5.92
+2024-07-01,"Fresh pasta, tortellini or other filled type, 300g",5.78
+2024-08-01,"Fresh pasta, tortellini or other filled type, 300g",5.68
+2024-09-01,"Fresh pasta, tortellini or other filled type, 300g",5.57
+2024-03-01,"Fried and other takeaway chicken, 5 pieces",15.99
+2024-04-01,"Fried and other takeaway chicken, 5 pieces",16.43
+2024-05-01,"Fried and other takeaway chicken, 5 pieces",16.5
+2024-06-01,"Fried and other takeaway chicken, 5 pieces",16.5
+2024-07-01,"Fried and other takeaway chicken, 5 pieces",16.42
+2024-08-01,"Fried and other takeaway chicken, 5 pieces",16.42
+2024-09-01,"Fried and other takeaway chicken, 5 pieces",16.5
+2024-03-01,"Berries, frozen, 500g",7.67
+2024-04-01,"Berries, frozen, 500g",7.73
+2024-05-01,"Berries, frozen, 500g",7.72
+2024-06-01,"Berries, frozen, 500g",7.7
+2024-07-01,"Berries, frozen, 500g",7.76
+2024-08-01,"Berries, frozen, 500g",7.71
+2024-09-01,"Berries, frozen, 500g",7.83
+2024-03-01,"Grapes, green or red",11.14
+2024-04-01,"Grapes, green or red",11.43
+2024-05-01,"Grapes, green or red",13.97
+2024-06-01,"Grapes, green or red",15.04
+2024-07-01,"Grapes, green or red",13.68
+2024-08-01,"Grapes, green or red",13.39
+2024-09-01,"Grapes, green or red",13.41
+2024-03-01,"Coffee, ground, 200g",6.5
+2024-04-01,"Coffee, ground, 200g",6.94
+2024-05-01,"Coffee, ground, 200g",6.65
+2024-06-01,"Coffee, ground, 200g",6.7
+2024-07-01,"Coffee, ground, 200g",6.56
+2024-08-01,"Coffee, ground, 200g",6.63
+2024-09-01,"Coffee, ground, 200g",6.63
+2024-03-01,"Honey, clover, creamed, 500g",8.38
+2024-04-01,"Honey, clover, creamed, 500g",8.39
+2024-05-01,"Honey, clover, creamed, 500g",8.35
+2024-06-01,"Honey, clover, creamed, 500g",8.39
+2024-07-01,"Honey, clover, creamed, 500g",8.36
+2024-08-01,"Honey, clover, creamed, 500g",8.31
+2024-09-01,"Honey, clover, creamed, 500g",8.35
+2024-03-01,"Hot chips, hot wedges",4.68
+2024-04-01,"Hot chips, hot wedges",4.79
+2024-05-01,"Hot chips, hot wedges",4.79
+2024-06-01,"Hot chips, hot wedges",4.79
+2024-07-01,"Hot chips, hot wedges",4.8
+2024-08-01,"Hot chips, hot wedges",4.81
+2024-09-01,"Hot chips, hot wedges",4.81
+2024-03-01,"Hummus dip, 200g",4.43
+2024-04-01,"Hummus dip, 200g",4.48
+2024-05-01,"Hummus dip, 200g",4.47
+2024-06-01,"Hummus dip, 200g",4.51
+2024-07-01,"Hummus dip, 200g",4.48
+2024-08-01,"Hummus dip, 200g",4.48
+2024-09-01,"Hummus dip, 200g",4.48
+2024-03-01,"Ice block, water based, each",3.11
+2024-04-01,"Ice block, water based, each",3.11
+2024-05-01,"Ice block, water based, each",3.12
+2024-06-01,"Ice block, water based, each",3.11
+2024-07-01,"Ice block, water based, each",3.11
+2024-08-01,"Ice block, water based, each",3.11
+2024-09-01,"Ice block, water based, each",3.11
+2024-03-01,"Ice cream bought in bulk, 2 litres",7.11
+2024-04-01,"Ice cream bought in bulk, 2 litres",7.22
+2024-05-01,"Ice cream bought in bulk, 2 litres",7.36
+2024-06-01,"Ice cream bought in bulk, 2 litres",7.53
+2024-07-01,"Ice cream bought in bulk, 2 litres",7.23
+2024-08-01,"Ice cream bought in bulk, 2 litres",7.29
+2024-09-01,"Ice cream bought in bulk, 2 litres",7.37
+2024-03-01,"Ice cream novelty, chocolate coated, each",4.43
+2024-04-01,"Ice cream novelty, chocolate coated, each",4.41
+2024-05-01,"Ice cream novelty, chocolate coated, each",4.41
+2024-06-01,"Ice cream novelty, chocolate coated, each",4.42
+2024-07-01,"Ice cream novelty, chocolate coated, each",4.45
+2024-08-01,"Ice cream novelty, chocolate coated, each",4.41
+2024-09-01,"Ice cream novelty, chocolate coated, each",4.44
+2024-03-01,"Infant formula, 900g",23.04
+2024-04-01,"Infant formula, 900g",23.07
+2024-05-01,"Infant formula, 900g",23.04
+2024-06-01,"Infant formula, 900g",23.09
+2024-07-01,"Infant formula, 900g",23.07
+2024-08-01,"Infant formula, 900g",23.11
+2024-09-01,"Infant formula, 900g",23.04
+2024-03-01,"Jam, 375g",3.56
+2024-04-01,"Jam, 375g",3.51
+2024-05-01,"Jam, 375g",3.5
+2024-06-01,"Jam, 375g",3.51
+2024-07-01,"Jam, 375g",3.53
+2024-08-01,"Jam, 375g",3.56
+2024-09-01,"Jam, 375g",3.56
+2024-03-01,"Kumara, 1kg",6.72
+2024-04-01,"Kumara, 1kg",6.15
+2024-05-01,"Kumara, 1kg",6.11
+2024-06-01,"Kumara, 1kg",6.06
+2024-07-01,"Kumara, 1kg",5.72
+2024-08-01,"Kumara, 1kg",5.83
+2024-09-01,"Kumara, 1kg",5.51
+2024-03-01,"Mandarins, 1kg",8.81
+2024-04-01,"Mandarins, 1kg",7.4
+2024-05-01,"Mandarins, 1kg",5.76
+2024-06-01,"Mandarins, 1kg",6.12
+2024-07-01,"Mandarins, 1kg",6.01
+2024-08-01,"Mandarins, 1kg",5.73
+2024-09-01,"Mandarins, 1kg",5.74
+2024-03-01,"Mussels, marinated, 375g",9.52
+2024-04-01,"Mussels, marinated, 375g",9.61
+2024-05-01,"Mussels, marinated, 375g",9.58
+2024-06-01,"Mussels, marinated, 375g",9.6
+2024-07-01,"Mussels, marinated, 375g",9.61
+2024-08-01,"Mussels, marinated, 375g",9.6
+2024-09-01,"Mussels, marinated, 375g",9.4
+2024-03-01,"Meat pies, chilled, 6 or 8 pack - Cheapest Available",7.81
+2024-04-01,"Meat pies, chilled, 6 or 8 pack - Cheapest Available",7.95
+2024-05-01,"Meat pies, chilled, 6 or 8 pack - Cheapest Available",8.53
+2024-06-01,"Meat pies, chilled, 6 or 8 pack - Cheapest Available",8.5
+2024-07-01,"Meat pies, chilled, 6 or 8 pack - Cheapest Available",8.87
+2024-08-01,"Meat pies, chilled, 6 or 8 pack - Cheapest Available",8.83
+2024-09-01,"Meat pies, chilled, 6 or 8 pack - Cheapest Available",8.68
+2024-03-01,"Mixed vegetables, frozen, 1kg",4.51
+2024-04-01,"Mixed vegetables, frozen, 1kg",4.63
+2024-05-01,"Mixed vegetables, frozen, 1kg",4.5
+2024-06-01,"Mixed vegetables, frozen, 1kg",4.34
+2024-07-01,"Mixed vegetables, frozen, 1kg",4.89
+2024-08-01,"Mixed vegetables, frozen, 1kg",4.9
+2024-09-01,"Mixed vegetables, frozen, 1kg",4.79
+2024-03-01,"Muesli, natural or toasted, 750g",6.37
+2024-04-01,"Muesli, natural or toasted, 750g",6.41
+2024-05-01,"Muesli, natural or toasted, 750g",6.39
+2024-06-01,"Muesli, natural or toasted, 750g",6.45
+2024-07-01,"Muesli, natural or toasted, 750g",6.35
+2024-08-01,"Muesli, natural or toasted, 750g",6.48
+2024-09-01,"Muesli, natural or toasted, 750g",6.24
+2024-03-01,"Muesli/cereal bars, 200g",3.59
+2024-04-01,"Muesli/cereal bars, 200g",3.63
+2024-05-01,"Muesli/cereal bars, 200g",3.5
+2024-06-01,"Muesli/cereal bars, 200g",3.6
+2024-07-01,"Muesli/cereal bars, 200g",3.5
+2024-08-01,"Muesli/cereal bars, 200g",3.6
+2024-09-01,"Muesli/cereal bars, 200g",3.64
+2024-03-01,"Mussels, live, 1kg",5.81
+2024-04-01,"Mussels, live, 1kg",5.84
+2024-05-01,"Mussels, live, 1kg",6.37
+2024-06-01,"Mussels, live, 1kg",6.35
+2024-07-01,"Mussels, live, 1kg",6.37
+2024-08-01,"Mussels, live, 1kg",6.44
+2024-09-01,"Mussels, live, 1kg",6.49
+2024-03-01,"Sandwich, fresh or toasted",6.37
+2024-04-01,"Sandwich, fresh or toasted",6.46
+2024-05-01,"Sandwich, fresh or toasted",6.48
+2024-06-01,"Sandwich, fresh or toasted",6.48
+2024-07-01,"Sandwich, fresh or toasted",6.49
+2024-08-01,"Sandwich, fresh or toasted",6.55
+2024-09-01,"Sandwich, fresh or toasted",6.54
+2024-03-01,"Olive oil, pure, not extra virgin or light, 1 litre",16.8
+2024-04-01,"Olive oil, pure, not extra virgin or light, 1 litre",18.57
+2024-05-01,"Olive oil, pure, not extra virgin or light, 1 litre",18.68
+2024-06-01,"Olive oil, pure, not extra virgin or light, 1 litre",19.99
+2024-07-01,"Olive oil, pure, not extra virgin or light, 1 litre",20.33
+2024-08-01,"Olive oil, pure, not extra virgin or light, 1 litre",21.25
+2024-09-01,"Olive oil, pure, not extra virgin or light, 1 litre",21.56
+2024-03-01,"Onions, 1kg",2.8
+2024-04-01,"Onions, 1kg",2.57
+2024-05-01,"Onions, 1kg",2.26
+2024-06-01,"Onions, 1kg",2.04
+2024-07-01,"Onions, 1kg",1.85
+2024-08-01,"Onions, 1kg",1.71
+2024-09-01,"Onions, 1kg",1.68
+2024-03-01,"Orange juice, not apple based, 1 litre - Cheapest Available",3.21
+2024-04-01,"Orange juice, not apple based, 1 litre - Cheapest Available",3.35
+2024-05-01,"Orange juice, not apple based, 1 litre - Cheapest Available",3.13
+2024-06-01,"Orange juice, not apple based, 1 litre - Cheapest Available",3.15
+2024-07-01,"Orange juice, not apple based, 1 litre - Cheapest Available",3.26
+2024-08-01,"Orange juice, not apple based, 1 litre - Cheapest Available",3.36
+2024-09-01,"Orange juice, not apple based, 1 litre - Cheapest Available",3.32
+2024-03-01,"Packaged cake slice, 300g",4.29
+2024-04-01,"Packaged cake slice, 300g",4.33
+2024-05-01,"Packaged cake slice, 300g",4.41
+2024-06-01,"Packaged cake slice, 300g",4.31
+2024-07-01,"Packaged cake slice, 300g",4.39
+2024-08-01,"Packaged cake slice, 300g",4.37
+2024-09-01,"Packaged cake slice, 300g",4.48
+2024-03-01,"Parsnips, 1kg",8.82
+2024-04-01,"Parsnips, 1kg",8.35
+2024-05-01,"Parsnips, 1kg",8.31
+2024-06-01,"Parsnips, 1kg",8.12
+2024-07-01,"Parsnips, 1kg",8.07
+2024-08-01,"Parsnips, 1kg",7.94
+2024-09-01,"Parsnips, 1kg",7.94
+2024-03-01,"Packaged meal, pasta and sauce, 130g",2.93
+2024-04-01,"Packaged meal, pasta and sauce, 130g",2.93
+2024-05-01,"Packaged meal, pasta and sauce, 130g",2.96
+2024-06-01,"Packaged meal, pasta and sauce, 130g",2.92
+2024-07-01,"Packaged meal, pasta and sauce, 130g",2.9
+2024-08-01,"Packaged meal, pasta and sauce, 130g",2.82
+2024-09-01,"Packaged meal, pasta and sauce, 130g",2.83
+2024-03-01,"Pasta sauces, tomato based, 500g",3.97
+2024-04-01,"Pasta sauces, tomato based, 500g",4.07
+2024-05-01,"Pasta sauces, tomato based, 500g",3.98
+2024-06-01,"Pasta sauces, tomato based, 500g",3.94
+2024-07-01,"Pasta sauces, tomato based, 500g",3.93
+2024-08-01,"Pasta sauces, tomato based, 500g",3.92
+2024-09-01,"Pasta sauces, tomato based, 500g",3.88
+2024-03-01,"Pastry, frozen sheets, puff or flaky, 800g",6.72
+2024-04-01,"Pastry, frozen sheets, puff or flaky, 800g",6.69
+2024-05-01,"Pastry, frozen sheets, puff or flaky, 800g",6.73
+2024-06-01,"Pastry, frozen sheets, puff or flaky, 800g",6.69
+2024-07-01,"Pastry, frozen sheets, puff or flaky, 800g",6.72
+2024-08-01,"Pastry, frozen sheets, puff or flaky, 800g",6.71
+2024-09-01,"Pastry, frozen sheets, puff or flaky, 800g",6.7
+2024-03-01,"Pears, 1kg",5.12
+2024-04-01,"Pears, 1kg",4.91
+2024-05-01,"Pears, 1kg",5.32
+2024-06-01,"Pears, 1kg",5.51
+2024-07-01,"Pears, 1kg",5.73
+2024-08-01,"Pears, 1kg",6.13
+2024-09-01,"Pears, 1kg",6.16
+2024-03-01,"Pineapple, pieces, in juice or syrup, canned, 425g",2.46
+2024-04-01,"Pineapple, pieces, in juice or syrup, canned, 425g",2.44
+2024-05-01,"Pineapple, pieces, in juice or syrup, canned, 425g",2.4
+2024-06-01,"Pineapple, pieces, in juice or syrup, canned, 425g",2.41
+2024-07-01,"Pineapple, pieces, in juice or syrup, canned, 425g",2.4
+2024-08-01,"Pineapple, pieces, in juice or syrup, canned, 425g",2.39
+2024-09-01,"Pineapple, pieces, in juice or syrup, canned, 425g",2.38
+2024-03-01,"Pineapple, 1kg",4.25
+2024-04-01,"Pineapple, 1kg",3.98
+2024-05-01,"Pineapple, 1kg",4.06
+2024-06-01,"Pineapple, 1kg",4.0
+2024-07-01,"Pineapple, 1kg",4.22
+2024-08-01,"Pineapple, 1kg",4.18
+2024-09-01,"Pineapple, 1kg",4.38
+2024-03-01,"Biscuits, plain (eg arrowroot, ginger, malt, wine), 250g",3.04
+2024-04-01,"Biscuits, plain (eg arrowroot, ginger, malt, wine), 250g",3.1
+2024-05-01,"Biscuits, plain (eg arrowroot, ginger, malt, wine), 250g",3.0
+2024-06-01,"Biscuits, plain (eg arrowroot, ginger, malt, wine), 250g",3.07
+2024-07-01,"Biscuits, plain (eg arrowroot, ginger, malt, wine), 250g",3.04
+2024-08-01,"Biscuits, plain (eg arrowroot, ginger, malt, wine), 250g",3.04
+2024-09-01,"Biscuits, plain (eg arrowroot, ginger, malt, wine), 250g",2.9
+2024-03-01,"Potato fries, frozen, 1kg",4.66
+2024-04-01,"Potato fries, frozen, 1kg",4.54
+2024-05-01,"Potato fries, frozen, 1kg",4.6
+2024-06-01,"Potato fries, frozen, 1kg",4.5
+2024-07-01,"Potato fries, frozen, 1kg",4.79
+2024-08-01,"Potato fries, frozen, 1kg",4.61
+2024-09-01,"Potato fries, frozen, 1kg",4.66
+2024-03-01,"Prawns, frozen, 700g",17.73
+2024-04-01,"Prawns, frozen, 700g",17.53
+2024-05-01,"Prawns, frozen, 700g",17.29
+2024-06-01,"Prawns, frozen, 700g",17.23
+2024-07-01,"Prawns, frozen, 700g",17.56
+2024-08-01,"Prawns, frozen, 700g",17.58
+2024-09-01,"Prawns, frozen, 700g",17.63
+2024-03-01,"Prepared meals, frozen, 340g",7.46
+2024-04-01,"Prepared meals, frozen, 340g",7.22
+2024-05-01,"Prepared meals, frozen, 340g",6.94
+2024-06-01,"Prepared meals, frozen, 340g",6.92
+2024-07-01,"Prepared meals, frozen, 340g",6.87
+2024-08-01,"Prepared meals, frozen, 340g",6.76
+2024-09-01,"Prepared meals, frozen, 340g",6.79
+2024-03-01,"Pumpkin, 1kg",4.49
+2024-04-01,"Pumpkin, 1kg",3.86
+2024-05-01,"Pumpkin, 1kg",3.63
+2024-06-01,"Pumpkin, 1kg",3.55
+2024-07-01,"Pumpkin, 1kg",3.43
+2024-08-01,"Pumpkin, 1kg",3.46
+2024-09-01,"Pumpkin, 1kg",3.75
+2024-03-01,"Roasting lamb and hogget, fresh, chilled or frozen, 1kg",13.68
+2024-04-01,"Roasting lamb and hogget, fresh, chilled or frozen, 1kg",15.53
+2024-05-01,"Roasting lamb and hogget, fresh, chilled or frozen, 1kg",15.62
+2024-06-01,"Roasting lamb and hogget, fresh, chilled or frozen, 1kg",16.52
+2024-07-01,"Roasting lamb and hogget, fresh, chilled or frozen, 1kg",16.96
+2024-08-01,"Roasting lamb and hogget, fresh, chilled or frozen, 1kg",16.74
+2024-09-01,"Roasting lamb and hogget, fresh, chilled or frozen, 1kg",17.43
+2024-03-01,"Roasting pork, fresh, chilled or frozen, 1kg",12.92
+2024-04-01,"Roasting pork, fresh, chilled or frozen, 1kg",12.76
+2024-05-01,"Roasting pork, fresh, chilled or frozen, 1kg",12.54
+2024-06-01,"Roasting pork, fresh, chilled or frozen, 1kg",13.25
+2024-07-01,"Roasting pork, fresh, chilled or frozen, 1kg",12.73
+2024-08-01,"Roasting pork, fresh, chilled or frozen, 1kg",13.07
+2024-09-01,"Roasting pork, fresh, chilled or frozen, 1kg",12.96
+2024-03-01,"Salad, leaf, packaged, 150g",5.22
+2024-04-01,"Salad, leaf, packaged, 150g",5.11
+2024-05-01,"Salad, leaf, packaged, 150g",5.12
+2024-06-01,"Salad, leaf, packaged, 150g",5.0
+2024-07-01,"Salad, leaf, packaged, 150g",5.18
+2024-08-01,"Salad, leaf, packaged, 150g",5.23
+2024-09-01,"Salad, leaf, packaged, 150g",5.2
+2024-03-01,"Salami, 100g",4.06
+2024-04-01,"Salami, 100g",4.09
+2024-05-01,"Salami, 100g",4.01
+2024-06-01,"Salami, 100g",3.95
+2024-07-01,"Salami, 100g",3.99
+2024-08-01,"Salami, 100g",3.89
+2024-09-01,"Salami, 100g",3.95
+2024-03-01,"Salmon, imported, pink, canned, unflavoured, 210g",5.08
+2024-04-01,"Salmon, imported, pink, canned, unflavoured, 210g",5.21
+2024-05-01,"Salmon, imported, pink, canned, unflavoured, 210g",5.23
+2024-06-01,"Salmon, imported, pink, canned, unflavoured, 210g",5.2
+2024-07-01,"Salmon, imported, pink, canned, unflavoured, 210g",5.21
+2024-08-01,"Salmon, imported, pink, canned, unflavoured, 210g",5.26
+2024-09-01,"Salmon, imported, pink, canned, unflavoured, 210g",5.33
+2024-03-01,"Soft drinks, poured",4.13
+2024-04-01,"Soft drinks, poured",4.15
+2024-05-01,"Soft drinks, poured",4.14
+2024-06-01,"Soft drinks, poured",4.15
+2024-07-01,"Soft drinks, poured",4.15
+2024-08-01,"Soft drinks, poured",4.17
+2024-09-01,"Soft drinks, poured",4.2
+2024-03-01,"Soft drinks, 600ml",4.08
+2024-04-01,"Soft drinks, 600ml",4.08
+2024-05-01,"Soft drinks, 600ml",4.13
+2024-06-01,"Soft drinks, 600ml",4.12
+2024-07-01,"Soft drinks, 600ml",4.08
+2024-08-01,"Soft drinks, 600ml",4.14
+2024-09-01,"Soft drinks, 600ml",4.12
+2024-03-01,"Soy milk, unflavoured, 1 litre",3.82
+2024-04-01,"Soy milk, unflavoured, 1 litre",3.79
+2024-05-01,"Soy milk, unflavoured, 1 litre",3.8
+2024-06-01,"Soy milk, unflavoured, 1 litre",3.72
+2024-07-01,"Soy milk, unflavoured, 1 litre",3.79
+2024-08-01,"Soy milk, unflavoured, 1 litre",3.73
+2024-09-01,"Soy milk, unflavoured, 1 litre",3.84
+2024-03-01,"Soy sauce, 300ml",3.01
+2024-04-01,"Soy sauce, 300ml",3.04
+2024-05-01,"Soy sauce, 300ml",2.97
+2024-06-01,"Soy sauce, 300ml",2.98
+2024-07-01,"Soy sauce, 300ml",2.94
+2024-08-01,"Soy sauce, 300ml",2.99
+2024-09-01,"Soy sauce, 300ml",2.97
+2024-03-01,"Sports energy drinks, 350ml",3.63
+2024-04-01,"Sports energy drinks, 350ml",3.59
+2024-05-01,"Sports energy drinks, 350ml",3.81
+2024-06-01,"Sports energy drinks, 350ml",3.57
+2024-07-01,"Sports energy drinks, 350ml",3.77
+2024-08-01,"Sports energy drinks, 350ml",3.51
+2024-09-01,"Sports energy drinks, 350ml",3.9
+2024-03-01,"Sports energy drinks, 250ml",1.92
+2024-04-01,"Sports energy drinks, 250ml",1.9
+2024-05-01,"Sports energy drinks, 250ml",1.96
+2024-06-01,"Sports energy drinks, 250ml",1.94
+2024-07-01,"Sports energy drinks, 250ml",1.96
+2024-08-01,"Sports energy drinks, 250ml",1.97
+2024-09-01,"Sports energy drinks, 250ml",1.96
+2024-03-01,"Two minute noodles, multipack,5",3.63
+2024-04-01,"Two minute noodles, multipack,5",3.74
+2024-05-01,"Two minute noodles, multipack,5",3.78
+2024-06-01,"Two minute noodles, multipack,5",3.7
+2024-07-01,"Two minute noodles, multipack,5",3.71
+2024-08-01,"Two minute noodles, multipack,5",3.65
+2024-09-01,"Two minute noodles, multipack,5",3.65
+2024-03-01,"Peanut butter, not salt free, 375g",2.98
+2024-04-01,"Peanut butter, not salt free, 375g",3.07
+2024-05-01,"Peanut butter, not salt free, 375g",3.03
+2024-06-01,"Peanut butter, not salt free, 375g",3.03
+2024-07-01,"Peanut butter, not salt free, 375g",3.04
+2024-08-01,"Peanut butter, not salt free, 375g",3.05
+2024-09-01,"Peanut butter, not salt free, 375g",3.07
+2024-03-01,"Sweets, 200g",3.85
+2024-04-01,"Sweets, 200g",3.87
+2024-05-01,"Sweets, 200g",3.9
+2024-06-01,"Sweets, 200g",3.94
+2024-07-01,"Sweets, 200g",3.79
+2024-08-01,"Sweets, 200g",3.8
+2024-09-01,"Sweets, 200g",3.74
+2024-03-01,"Cakes and biscuits, takeaway",5.43
+2024-04-01,"Cakes and biscuits, takeaway",5.44
+2024-05-01,"Cakes and biscuits, takeaway",5.45
+2024-06-01,"Cakes and biscuits, takeaway",5.45
+2024-07-01,"Cakes and biscuits, takeaway",5.48
+2024-08-01,"Cakes and biscuits, takeaway",5.51
+2024-09-01,"Cakes and biscuits, takeaway",5.5
+2024-03-01,"Coffee, takeway, each",4.77
+2024-04-01,"Coffee, takeway, each",4.75
+2024-05-01,"Coffee, takeway, each",4.78
+2024-06-01,"Coffee, takeway, each",4.79
+2024-07-01,"Coffee, takeway, each",4.79
+2024-08-01,"Coffee, takeway, each",4.81
+2024-09-01,"Coffee, takeway, each",4.82
+2024-03-01,"Cookie, takeaway, each",2.8
+2024-04-01,"Cookie, takeaway, each",2.84
+2024-05-01,"Cookie, takeaway, each",2.79
+2024-06-01,"Cookie, takeaway, each",2.82
+2024-07-01,"Cookie, takeaway, each",2.85
+2024-08-01,"Cookie, takeaway, each",2.86
+2024-09-01,"Cookie, takeaway, each",2.79
+2024-03-01,"Takeaway muffins and buns, each",5.07
+2024-04-01,"Takeaway muffins and buns, each",5.08
+2024-05-01,"Takeaway muffins and buns, each",5.08
+2024-06-01,"Takeaway muffins and buns, each",5.09
+2024-07-01,"Takeaway muffins and buns, each",5.12
+2024-08-01,"Takeaway muffins and buns, each",5.14
+2024-09-01,"Takeaway muffins and buns, each",5.13
+2024-03-01,"Pizza, takeaway",17.1
+2024-04-01,"Pizza, takeaway",17.25
+2024-05-01,"Pizza, takeaway",17.21
+2024-06-01,"Pizza, takeaway",17.24
+2024-07-01,"Pizza, takeaway",17.27
+2024-08-01,"Pizza, takeaway",17.32
+2024-09-01,"Pizza, takeaway",17.41
+2024-03-01,"Salad, takeaway, vegetable, 1kg",15.79
+2024-04-01,"Salad, takeaway, vegetable, 1kg",15.32
+2024-05-01,"Salad, takeaway, vegetable, 1kg",15.63
+2024-06-01,"Salad, takeaway, vegetable, 1kg",15.7
+2024-07-01,"Salad, takeaway, vegetable, 1kg",15.29
+2024-08-01,"Salad, takeaway, vegetable, 1kg",15.31
+2024-09-01,"Salad, takeaway, vegetable, 1kg",15.41
+2024-03-01,"Tea, takeaway",4.12
+2024-04-01,"Tea, takeaway",4.13
+2024-05-01,"Tea, takeaway",4.13
+2024-06-01,"Tea, takeaway",4.14
+2024-07-01,"Tea, takeaway",4.15
+2024-08-01,"Tea, takeaway",4.17
+2024-09-01,"Tea, takeaway",4.17
+2024-03-01,"Tomatoes, canned, 400g",1.62
+2024-04-01,"Tomatoes, canned, 400g",1.62
+2024-05-01,"Tomatoes, canned, 400g",1.64
+2024-06-01,"Tomatoes, canned, 400g",1.65
+2024-07-01,"Tomatoes, canned, 400g",1.67
+2024-08-01,"Tomatoes, canned, 400g",1.59
+2024-09-01,"Tomatoes, canned, 400g",1.59
+2024-03-01,"Vinegar, 750ml",2.6
+2024-04-01,"Vinegar, 750ml",2.63
+2024-05-01,"Vinegar, 750ml",2.59
+2024-06-01,"Vinegar, 750ml",2.67
+2024-07-01,"Vinegar, 750ml",2.59
+2024-08-01,"Vinegar, 750ml",2.61
+2024-09-01,"Vinegar, 750ml",2.6
+2024-03-01,"Wheatmeal bread, sliced, 700g",3.47
+2024-04-01,"Wheatmeal bread, sliced, 700g",3.5
+2024-05-01,"Wheatmeal bread, sliced, 700g",3.5
+2024-06-01,"Wheatmeal bread, sliced, 700g",3.48
+2024-07-01,"Wheatmeal bread, sliced, 700g",3.52
+2024-08-01,"Wheatmeal bread, sliced, 700g",3.5
+2024-09-01,"Wheatmeal bread, sliced, 700g",3.43
+2024-03-01,"Wholegrain bread, sliced, 700g",4.13
+2024-04-01,"Wholegrain bread, sliced, 700g",4.13
+2024-05-01,"Wholegrain bread, sliced, 700g",4.14
+2024-06-01,"Wholegrain bread, sliced, 700g",4.13
+2024-07-01,"Wholegrain bread, sliced, 700g",4.12
+2024-08-01,"Wholegrain bread, sliced, 700g",4.1
+2024-09-01,"Wholegrain bread, sliced, 700g",4.13
+2024-03-01,"Fresh herbs, packaged, chilled",4.23
+2024-04-01,"Fresh herbs, packaged, chilled",4.27
+2024-05-01,"Fresh herbs, packaged, chilled",4.24
+2024-06-01,"Fresh herbs, packaged, chilled",4.29
+2024-07-01,"Fresh herbs, packaged, chilled",4.5
+2024-08-01,"Fresh herbs, packaged, chilled",4.53
+2024-09-01,"Fresh herbs, packaged, chilled",4.57
+2024-03-01,"Olives, jar, 400g",5.26
+2024-04-01,"Olives, jar, 400g",5.47
+2024-05-01,"Olives, jar, 400g",5.54
+2024-06-01,"Olives, jar, 400g",5.61
+2024-07-01,"Olives, jar, 400g",5.58
+2024-08-01,"Olives, jar, 400g",5.49
+2024-09-01,"Olives, jar, 400g",5.56
+2024-03-01,"Tea bags, flavoured or herbal, box of 25",3.25
+2024-04-01,"Tea bags, flavoured or herbal, box of 25",3.24
+2024-05-01,"Tea bags, flavoured or herbal, box of 25",3.24
+2024-06-01,"Tea bags, flavoured or herbal, box of 25",3.21
+2024-07-01,"Tea bags, flavoured or herbal, box of 25",3.22
+2024-08-01,"Tea bags, flavoured or herbal, box of 25",3.2
+2024-09-01,"Tea bags, flavoured or herbal, box of 25",3.2
+2024-03-01,"Pizza, fresh or frozen, with any standard topping, each",6.41
+2024-04-01,"Pizza, fresh or frozen, with any standard topping, each",6.47
+2024-05-01,"Pizza, fresh or frozen, with any standard topping, each",6.38
+2024-06-01,"Pizza, fresh or frozen, with any standard topping, each",6.26
+2024-07-01,"Pizza, fresh or frozen, with any standard topping, each",6.56
+2024-08-01,"Pizza, fresh or frozen, with any standard topping, each",6.55
+2024-09-01,"Pizza, fresh or frozen, with any standard topping, each",6.6
+2024-03-01,"Margarine/table spread, 500g",3.24
+2024-04-01,"Margarine/table spread, 500g",3.27
+2024-05-01,"Margarine/table spread, 500g",3.23
+2024-06-01,"Margarine/table spread, 500g",3.31
+2024-07-01,"Margarine/table spread, 500g",3.31
+2024-08-01,"Margarine/table spread, 500g",3.33
+2024-09-01,"Margarine/table spread, 500g",3.36
+2024-03-01,"Mayonnaise, 380ml",4.08
+2024-04-01,"Mayonnaise, 380ml",4.16
+2024-05-01,"Mayonnaise, 380ml",3.92
+2024-06-01,"Mayonnaise, 380ml",4.1
+2024-07-01,"Mayonnaise, 380ml",3.83
+2024-08-01,"Mayonnaise, 380ml",4.09
+2024-09-01,"Mayonnaise, 380ml",4.03
+2024-03-01,"Dried mixed herbs, 10g to 15g",2.76
+2024-04-01,"Dried mixed herbs, 10g to 15g",2.79
+2024-05-01,"Dried mixed herbs, 10g to 15g",2.86
+2024-06-01,"Dried mixed herbs, 10g to 15g",2.88
+2024-07-01,"Dried mixed herbs, 10g to 15g",2.82
+2024-08-01,"Dried mixed herbs, 10g to 15g",2.86
+2024-09-01,"Dried mixed herbs, 10g to 15g",2.87
+2024-03-01,"Peanuts, blanched, salted, 250g",4.66
+2024-04-01,"Peanuts, blanched, salted, 250g",4.67
+2024-05-01,"Peanuts, blanched, salted, 250g",4.64
+2024-06-01,"Peanuts, blanched, salted, 250g",4.66
+2024-07-01,"Peanuts, blanched, salted, 250g",4.68
+2024-08-01,"Peanuts, blanched, salted, 250g",4.68
+2024-09-01,"Peanuts, blanched, salted, 250g",4.62
+2024-03-01,"Ham, sliced or shaved, 1kg",16.33
+2024-04-01,"Ham, sliced or shaved, 1kg",16.31
+2024-05-01,"Ham, sliced or shaved, 1kg",16.21
+2024-06-01,"Ham, sliced or shaved, 1kg",16.26
+2024-07-01,"Ham, sliced or shaved, 1kg",16.41
+2024-08-01,"Ham, sliced or shaved, 1kg",16.95
+2024-09-01,"Ham, sliced or shaved, 1kg",16.92
+2024-03-01,"Chewing gum, packet, each",3.73
+2024-04-01,"Chewing gum, packet, each",3.63
+2024-05-01,"Chewing gum, packet, each",3.68
+2024-06-01,"Chewing gum, packet, each",3.74
+2024-07-01,"Chewing gum, packet, each",3.64
+2024-08-01,"Chewing gum, packet, each",3.66
+2024-09-01,"Chewing gum, packet, each",3.63
